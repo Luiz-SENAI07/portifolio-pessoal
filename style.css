@@ -44,9 +44,57 @@ html {
 
 .navbar {
   backdrop-filter: blur(10px);
-  background-color: rgba(15, 32, 39, 0.9) !important;
+  background-color: rgba(15, 32, 39, 0.9);
 }
 
 .section-padding {
   padding: 100px 0;
+}
+
+#ts{
+  border-color: #3178C6 !important;
+}
+#js{
+  border-color: #F0DB4F  !important;
+}
+#cs{
+  border-color: #682876  !important;
+}
+#jv{
+  border-color: #FFA500 !important;
+}
+#py{
+  border-color: #306998 !important;
+}
+
+#dj{
+  border-color: #092E20 !important;
+}
+#net{
+  border-color: #512BD4 !important;
+}
+
+#css{
+  border-color: #1572B6 !important;
+}
+#html{
+  border-color: #E34F26 !important;
+}
+#react{
+  border-color: #61DAFB !important;
+}
+
+#flutter{
+  border-color: #02569B !important;
+}
+
+#my{
+  border-color: #4479A1 !important;
+}
+#server{
+  border-color: #CC292B !important;
+}
+
+#aws{
+  border-color: #FF9900 !important;
 }
